@@ -1,0 +1,14 @@
+La recepción de datos ciudadanos de forma estructurada permite a las plataformas procesar, analizar y actuar ante los reportes de manera 
+automática, rápida y a gran escala.
+
+Beneficios clave:
+
+Automatización inmediata: Permite clasificar y asignar los reportes a las áreas responsables sin intervención humana manual.
+
+Análisis de datos: Facilita la creación de estadísticas, mapas de calor y la detección de patrones críticos en tiempo real.
+
+Respuestas rápidas: Acelera los tiempos de solución al transformar el texto libre en variables claras y accionables.
+
+Filtro de errores: Reduce la información ambigua, incompleta o duplicada gracias a formularios con campos obligatorios y validados.
+
+Escalabilidad: Hace posible que un equipo pequeño gestione miles de quejas o avisos ciudadanos simultáneamente.
