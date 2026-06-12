@@ -1,0 +1,5 @@
+{
+  "tipo": "Corte de servicio publico del agua indeterminadamente",
+  "descripcion": "La comunidad reporta la inconformidad gracias a 
+  los cortes del sevicio de agua en los barrios de Cartagena."
+}
